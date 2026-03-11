@@ -1,41 +1,98 @@
-# house-price-prediction-ml
-House price prediction using machine learning.
-Project Title
+# 🏠 House Price Prediction using Machine Learning
 
-House Price Prediction using Machine Learning
+This project aims to develop a **machine learning model to predict house prices** based on housing features using a dataset from Kaggle. The project explores how different factors such as house size, location, and overall quality influence property prices.
 
-Why We Choose This Topic
+---
 
-Real-world problem in the real estate industry.
+# 📌 Project Title
+**House Price Prediction using Machine Learning**
 
-House prices depend on many factors such as location, size, and house quality.
+---
 
-The dataset from Kaggle contains real housing data with many features for analysis.
+# ❓ Why We Choose This Topic
 
-It is suitable for learning machine learning regression techniques.
+- Real-world problem in the **real estate industry**.
+- House prices depend on many factors such as **location, size, and house quality**.
+- The dataset from Kaggle contains **real housing data with multiple features for analysis**.
+- It is suitable for learning **machine learning regression techniques**.
+- Helps us understand the **complete machine learning workflow**, from data preprocessing to prediction.
 
-Helps us understand the complete ML workflow from data preprocessing to prediction.
+---
 
-Objective
+# 🎯 Objectives
 
-To develop a machine learning model to predict house prices based on housing features.
+- Develop a **machine learning model** to predict house prices based on housing features.
+- Identify the **key factors influencing property prices**.
+- Apply machine learning techniques to analyze real-world datasets.
 
-To identify the key factors that influence property prices.
+---
 
-Methodology
+# ⚙️ Methodology
 
-Collect dataset from Kaggle.
+1. **Dataset Collection**
+   - The dataset is obtained from Kaggle.
 
-Perform data preprocessing such as handling missing values and selecting relevant features.
+2. **Data Preprocessing**
+   - Handle missing values
+   - Select relevant features
+   - Prepare the dataset for training
 
-Train machine learning models such as Linear Regression or Random Forest.
+3. **Model Training**
+   - Train machine learning models such as:
+     - Linear Regression
+     - Random Forest
 
-Evaluate the model using Mean Absolute Error (MAE).
+4. **Model Evaluation**
+   - Evaluate model performance using:
+     - Mean Absolute Error (MAE)
 
-Expected Outcomes
+---
 
-A trained model capable of predicting house prices accurately.
+# 📊 Expected Outcomes
 
-Better understanding of machine learning concepts and model evaluation.
+- A trained machine learning model capable of **predicting house prices accurately**.
+- Better understanding of **machine learning concepts and model evaluation techniques**.
+- Identification of **important features affecting house prices**.
 
-Identification of important features affecting house prices.
+---
+
+# 📂 Project Structure
+# House Price Prediction using Machine Learning
+
+(Project explanation)
+
+## Project Structure
+house-price-prediction-ml
+│
+├── data
+│   └── train.csv
+│
+├── house_price_prediction.ipynb
+│
+└── README.md
+
+
+---
+
+# 📚 Dataset Source
+
+Dataset obtained from the Kaggle competition:  
+Housing Prices Competition for Kaggle Learn Users
+
+---
+
+# 👥 Team Members
+
+- Member 1
+- Member 2
+- Member 3
+
+---
+
+# 🛠 Tools & Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+- GitHub
