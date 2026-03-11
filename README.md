@@ -61,15 +61,8 @@ This project aims to develop a **machine learning model to predict house prices*
 
 (Project explanation)
 
-## Project Structure
-house-price-prediction-ml
-│
-├── data
-│   └── train.csv
-│
-├── house_price_prediction.ipynb
-│
-└── README.md
+## 📂 Project Structure
+
 
 
 ---
